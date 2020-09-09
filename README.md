@@ -2,6 +2,8 @@
 
 You will create an app that renders info about yourself.
 
+### Run the app using `yarn` then `yarn start`
+
 ## Requirements
 
 1. Create a functional component called `MyInfo` that returns the following UI:
